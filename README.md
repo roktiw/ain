@@ -1,4 +1,4 @@
-# AIN (Artificial Intelligence Note) File Format
+# Artificial Intelligence Notation (AIN)
 
 The **AIN** file format is a lightweight, human-readable format designed for storing instructions, prompts, and pseudo-code that guide AI models in performing tasks. It is optimized for clarity, simplicity, and versatility, making it easy for both humans and machines to interpret and use.
 
